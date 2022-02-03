@@ -10,6 +10,8 @@ body {
     color: orange
 }
 
-
+.css-intro-images {
+    display: flex
+}
 
 
